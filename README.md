@@ -1,2 +1,2 @@
-# Multiple regression models of risk factors for hypertension
-Stata codes for STAT0026 Individual Cousework (with R alternatives)
+# STAT0026-hypertension-project
+Stata codes for STAT0026 Individual Coursework (with R alternatives)
